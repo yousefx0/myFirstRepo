@@ -3,6 +3,5 @@ print('okok')
 print('this is new')
 print('and this is too')
 
-
 print('Ok I left 2 empty up & down')
-
+print('Ok I remove 2 empty up & down')
